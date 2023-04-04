@@ -45,7 +45,7 @@
 
 Бинаризованная градиентная матрица G(Бернсен):
 
-![](pictures_results/Chessboard_Bin_G_m.bmp)
+![](pictures_results/Chessboard_Bin_G_m.png)
 
 Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 40):
 
