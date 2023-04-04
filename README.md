@@ -54,27 +54,32 @@
 ## Фото человеческого лица
 Исходное изображение:
 
-![](pictures_src/face_semitone.bmp)
+![](pictures_src/Kianu.png)
+
+Полутоновое изображение:
+
+![](pictures_src/Kianu_s.bmp)
+
 
 Градиент по Х:
 
-![](pictures_results/face_grad_x.bmp)
+![](pictures_results/Kianu_Gx.bmp)
 
 Градиент по Y:
 
-![](pictures_results/face_grad_y.bmp)
+![](pictures_results/Kianu_Gy.bmp)
 
 Градиентная матрица G:
 
-![](pictures_results/face_grad_g.bmp)
+![](pictures_results/Kianu_G.bmp)
 
 Бинаризованная градиентная матрица G(Бернсен):
 
-![](pictures_results/face_bernsen.bmp)
+![](pictures_results/Kianu_BinG_m.png)
 
 Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 45):
 
-![](pictures_results/face_bin_45.bmp)
+![](pictures_results/Kianu_GBin_45.bmp)
 
 
 ## Кадр из аниме
