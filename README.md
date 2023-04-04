@@ -8,19 +8,19 @@
 ![](pictures_src/village_s.bmp)
 
 Градиент по Х:
-![](pictures_results/house_grad_x.bmp)
+![](pictures_results/village_Gx.bmp)
 
 Градиент по Y:
-![](pictures_results/house_grad_y.bmp)
+![](pictures_results/Village_Gy.bmp)
 
 Градиентная матрица G:
-![](pictures_results/house_grad_g.bmp)
+![](pictures_results/Village_G.bmp)
 
 Бинаризованная градиентная матрица G(Бернсен):
-![](pictures_results/house_grad_g_b.bmp)
+![](pictures_results/Village_Bin_G_m.bmp)
 
 Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 25):
-![](pictures_results/house_bin_25.bmp)
+![](pictures_results/Village_BinG.bmp)
 
 ## Фото шахматной доски
 Исходное изображение:
