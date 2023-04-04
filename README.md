@@ -33,23 +33,23 @@
 
 Градиент по Х:
 
-![](pictures_results/chess_grad_x.bmp)
+![](pictures_results/Chessboard_Gx.bmp)
 
 Градиент по Y:
 
-![](pictures_results/chess_grad_y.bmp)
+![](pictures_results/Chessboard_Gy.bmp)
 
 Градиентная матрица G:
 
-![](pictures_results/chess_grad_g.bmp)
+![](pictures_results/Chessboard_G.bmp)
 
 Бинаризованная градиентная матрица G(Бернсен):
 
-![](pictures_results/chess_grad_g_b.bmp)
+![](pictures_results/Chessboard_Bin_G_m.bmp)
 
 Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 40):
 
-![](pictures_results/chess_bin_40.bmp)
+![](pictures_results/Chessboard_GBin_40.bmp)
 
 ## Фото человеческого лица
 Исходное изображение:
