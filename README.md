@@ -80,25 +80,28 @@
 ## Кадр из аниме
 Исходное изображение:
 
-![](pictures_src/tsukyo_semitone.bmp)
+![](pictures_src/guts.jpg)
+
+Полутоновое изображение:
+![](pictures_src/guts_s.bmp)
 
 Градиент по Х:
 
-![](pictures_results/tsukyo_grad_x.bmp)
+![](pictures_results/Guts_Gx.bmp)
 
 Градиент по Y:
 
-![](pictures_results/tsukyo_grad_y.bmp)
+![](pictures_results/Guts_Gy.bmp)
 
 Градиентная матрица G:
 
-![](pictures_results/tsukyo_grad_g.bmp)
+![](pictures_results/Guts_G.bmp)
 
 Бинаризованная градиентная матрица G(Бернсен):
 
-![](pictures_results/tsukyo_grad_g_b.bmp)
+![](pictures_results/Guts_BinG_m.bmp)
 
-Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 30):
+Бинаризованная градиентная матрица G(Глобальная бинаризация, порог 15):
 
-![](pictures_results/tsukyo_bin_30.bmp)
+![](pictures_results/Guts_GBin_15.bmp)
 
