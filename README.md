@@ -25,7 +25,11 @@
 ## Фото шахматной доски
 Исходное изображение:
 
-![](pictures_src/chess_semitone.bmp)
+![](pictures_src/chessboard.jpg)
+
+Полутоновое изображение:
+
+![](pictures_src/chessboard_s.bmp)
 
 Градиент по Х:
 
