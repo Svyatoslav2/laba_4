@@ -2,7 +2,10 @@
 # Лабораторная работа №4. Выделение контуров в изображениях.
 ## Рисунок ручной отрисовки
 Исходное изображение:
-![](pictures_src/house_semitone.bmp)
+![](pictures_src/village_s.bmp)
+
+Полутоновое изображение:
+![](pictures_src/village.png)
 
 Градиент по Х:
 ![](pictures_results/house_grad_x.bmp)
